@@ -1,0 +1,4 @@
+﻿  Module6_Ch11_Ex23_WarstlerC.cpp
+C:\Users\clayw\source\repos\Module6_Ch11_Ex23_WarstlerC\Module6_Ch11_Ex23_WarstlerC.cpp(34,6): warning C4101: 'i': unreferenced local variable
+C:\Users\clayw\source\repos\Module6_Ch11_Ex23_WarstlerC\Module6_Ch11_Ex23_WarstlerC.cpp(56,6): warning C4101: 'i': unreferenced local variable
+  Module6_Ch11_Ex23_WarstlerC.vcxproj -> C:\Users\clayw\source\repos\Module6_Ch11_Ex23_WarstlerC\Debug\Module6_Ch11_Ex23_WarstlerC.exe
